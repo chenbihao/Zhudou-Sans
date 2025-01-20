@@ -1,4 +1,12 @@
-# 煮豆黑体 Zhudou Sans
+# Fork
+
+本仓库Fork自 [Zhudou Sans](https://github.com/Buernia/Zhudou-Sans)，
+
+额外替换了一版 [ss02](ss02/ZhudouSans-Normal.sfd) 的版本（使用 FontForge ），相当于默认就应用了ss02特性的字体，方便使用。
+
+
+## 煮豆黑体 Zhudou Sans
+
 
 煮豆黑体是衍生自 [Noto Sans](https://github.com/googlefonts/noto-fonts) 和[思源黑体](https://github.com/adobe-fonts/source-han-sans)的标点符号字体家族，支持中日韩标点、全角字母、全角数字及一些特殊符号。标点造型主要来源于 Noto Sans，可以为类似风格的西文字体带来更加协调的中外文混排效果。
 
